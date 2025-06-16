@@ -56,13 +56,15 @@
     "keybindings": [
       {
         "command": "eslint-protect.selected",
-        "key": "ctrl+alt+p",
-        "mac": "opt+cmd+p"
+        "key": "ctrl+alt+l",
+        "mac": "ctrl+cmd+l",
+        "when": "editorTextFocus"
       },
       {
         "command": "eslint-protect.file",
-        "key": "ctrl+alt+P",
-        "mac": "opt+cmd+P"
+        "key": "shift+ctrl+alt+l",
+        "mac": "shift+ctrl+cmd+l",
+        "when": "editorTextFocus"
       }
     ]
   },

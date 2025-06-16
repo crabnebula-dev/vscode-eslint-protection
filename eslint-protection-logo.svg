@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="255"
+   height="255"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="eslint-protection-logo.svg"
+   inkscape:export-filename="eslint-protection-logo.png"
+   inkscape:export-xdpi="96.376472"
+   inkscape:export-ydpi="96.376472"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.84096521"
+     inkscape:cx="163.5026"
+     inkscape:cy="146.26051"
+     inkscape:window-width="1344"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="font-variation-settings:'wght' 500;fill:none;stroke:#b3b3b3;stroke-width:8.85827;stroke-dasharray:none"
+       id="path2"
+       cx="50.63007"
+       cy="41.572395"
+       rx="26.011776"
+       ry="29.031004" />
+    <rect
+       style="font-variation-settings:'wght' 500;fill:#deaa87;stroke:none;stroke-width:1.27264"
+       id="rect2"
+       width="75.248367"
+       height="48.30759"
+       x="13.005889"
+       y="41.340145"
+       rx="7.3818898"
+       ry="7.3818898" />
+  </g>
+</svg>
