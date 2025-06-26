@@ -23,7 +23,7 @@
     "type": "git",
     "url": "git+https://github.com/crabnebula-dev/vscode-eslint-protected.git"
   },
-  "icon": "todo.png",
+  "icon": "eslint-protection-logo.png",
   "galleryBanner": {
     "color": "#051024",
     "theme": "dark"
